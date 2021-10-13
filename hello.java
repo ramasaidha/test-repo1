@@ -1,4 +1,8 @@
 class hello
 {
-}:wq
+ 	public static void main()
+	{
+		system.out.println("hello");
+	{
+}
 
